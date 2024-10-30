@@ -1,0 +1,3 @@
+-> Bucket policies make entire bucket public.
+-> Use S3 to host static content only.
+-> S3 scales automatically ondemand.
