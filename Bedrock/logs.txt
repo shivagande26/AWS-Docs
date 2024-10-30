@@ -1,0 +1,7 @@
+2022-06-18 14:19:59.125  INFO 5467 --- [           main] com.example.project.Application         : Starting Application v0.1.0 on ubuntu with PID 5467 (/home/ubuntu/project/application.jar started by ubuntu in /home/ubuntu/project)
+2022-06-18 14:19:59.127  INFO 5467 --- [           main] com.example.project.Application         : No active profile set, falling back to default profiles: default
+2022-06-18 14:20:00.143  INFO 5467 --- [           main] com.example.project.Application         : Started Application in 1.353 seconds (JVM running for 1.643)
+2022-06-18 14:20:01.275 ERROR 5467 --- [           main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+

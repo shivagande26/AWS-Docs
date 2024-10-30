@@ -1,0 +1,8 @@
+Steps:
+-> Search for IAM service. Go to IAM console.
+-> In left menu click on "Users". Click on "Create user".
+-> Under User name, Provide username. Check "Provide user access to the AWS Management Console".
+-> Click on "I want to create an IAM user".
+-> Click on "Custom password" and provide password. Uncheck "Users must create a new password at next sign-in".
+-> Click on "Attach policies directly". Select "AdministratorAccess" from below list.
+-> Review all your details. Click on "Create user".
