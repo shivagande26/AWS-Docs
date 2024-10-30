@@ -1,5 +1,19 @@
+What is S3
+----------
+-> S3 provides secure, durable and highly scalable object storage.
+-> S3 allows you to store and retrieve any amount of data from anywhere on web at a very low cost.
+-> Amazon S3 is easy to use with a simple web service interface.
+-> Built for 99.95%-99.99% service availability depending on S3 tier.
+-> Designed for 99.999999999% durability for data stored in S3.
 
-
+Characteristics
+---------------
+-> Tired Storage.
+   S3 offers a range of storage classes designed for different use cases.
+-> Lifecycle Management.
+   Define rules to automatically transition objects to a cheaper storage tier or delete objects that are no longer required after a set period of time.
+-> Versioning.
+   With versioning all versions of objects are stored and can be retrieved.
 
 Securing Our Data
 ------------------
