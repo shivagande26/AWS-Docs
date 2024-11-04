@@ -4,6 +4,6 @@ Lifecycle management automates the moving of our objects between different stora
 
 Important Points
 ----------------
--> Automates moving objects between different storage tires.
--> Can be used in conjunction with versioning.
--> Can be applied to current versions and previous versions.
+- Automates moving objects between different storage tires.
+- Can be used in conjunction with versioning.
+- Can be applied to current versions and previous versions.
